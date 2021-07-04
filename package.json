@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rahulsups/habit-tracker.git"
+    "url": "git+https://github.com/binimesh48/Habbit_tracker.git"
   },
-  "author": "Rahul",
+  "author": "binimesh48",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rahulsups/habit-tracker/issues"
+    "url": "https://github.com/binimesh48/Habbit_tracker/issues"
   },
-  "homepage": "https://github.com/rahulsups/habit-tracker#readme",
+  "homepage": "https://github.com/binimesh48/Habbit_tracker#readme",
   "dependencies": {
     "connect-flash": "^0.1.1",
     "dotenv": "^8.2.0",
@@ -28,6 +28,6 @@
     "mongoose": "^5.9.25"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.9"
   }
 }
