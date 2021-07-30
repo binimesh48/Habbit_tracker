@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A simple habit tracking app based on NodeJS + EJS for user habit management on daily and weekly basis.",
   "main": "index.js",
+  "engines": {
+    "node": "14.17.0"
+  },
   "scripts": {
     "start": "nodemon app.js",
     "dev": "nodemon app.js",
